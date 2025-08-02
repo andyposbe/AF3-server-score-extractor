@@ -167,9 +167,9 @@ If you use this tool in your research, please cite:
 
 ```bibtex
 @software{af3_analysis_tool,
-  author = {Your Name},
-  title = {AF3 Analysis Tool: Comprehensive AlphaFold 3 Results Analysis},
-  url = {https://github.com/yourusername/af3-analysis-tool},
+  author = {Andres Posbeyikian},
+  title = {AF3-server-score-extractor},
+  url = {https://github.com/andyposbe/AF3-server-score-extractor},
   year = {2025}
 }
 ```
