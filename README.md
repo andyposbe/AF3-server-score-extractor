@@ -1,6 +1,9 @@
 # AF3 Server Score Extractor
 
+<a href="https://doi.org/10.5281/zenodo.17136186"><img src="https://zenodo.org/badge/1030846902.svg" alt="DOI"></a>
+
 Tool for analyzing AlphaFold 3 results, generating PAE visualizations and Excel reports with confidence metrics.
+
 
 ---
 
@@ -166,12 +169,26 @@ MIT License – see [`LICENSE`](LICENSE) file for details.
 If you use this tool in your research, please cite:
 
 ```bibtex
-@software{af3_analysis_tool,
-  author = {Andres Posbeyikian},
-  title = {AF3-server-score-extractor},
-  url = {https://github.com/andyposbe/AF3-server-score-extractor},
-  year = {2025}
+@software{andres_posbeyikian_2025_17136187,
+  author       = {Andres Posbeyikian},
+  title        = {andyposbe/AF3-server-score-extractor: Latest
+                   Release
+                  },
+  month        = sep,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.17136187},
+  url          = {https://doi.org/10.5281/zenodo.17136187},
+  swhid        = {swh:1:dir:62f972cf7691f14e442a231d29c237901e32f546
+                   ;origin=https://doi.org/10.5281/zenodo.17136186;vi
+                   sit=swh:1:snp:50239e5b0f4d2ecced5ed3aeddce3b301b90
+                   a1d5;anchor=swh:1:rel:4689def25d5140be6c833976568a
+                   4a709072408a;path=andyposbe-AF3-server-score-
+                   extractor-300fca0
+                  },
 }
+
 ```
 
 If you use the AF3 server to generate your results, please reference:
