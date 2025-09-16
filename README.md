@@ -20,7 +20,7 @@ This tool processes AF3 output files to create comprehensive analysis reports in
 ### Quick Install
 
 ```bash
-git clone https://github.com/andyposbe/andyposbe/AF3-server-score-extractor.git
+git clone https://github.com/andyposbe/AF3-server-score-extractor.git
 cd AF3-server-score-extractor
 pip install -r requirements.txt
 ```
